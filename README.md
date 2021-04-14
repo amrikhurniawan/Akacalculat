@@ -1,6 +1,6 @@
 # akacalculat1
 
-A new Flutter project.
+This is the calculator application. The calculator is made from flutter, so this application can cross-platform, therefore this calculator can use on android and IOS
 
 ## Getting Started
 
